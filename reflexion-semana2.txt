@@ -1,0 +1,11 @@
+Pregunta 9:
+¿Por qué es importante para un desarrollador
+saber usar la terminal para navegar y organizar 
+archivos dentro de un proyecto?
+
+Respuesta: 
+Saber usar la terminal rompe la barrera de 
+dependencia de las interfaces gráficas. 
+Te transforma de un usuario pasivo del sistema 
+operativo a un desarrollador con control total 
+sobre el entorno donde vive y se ejecuta tu código.
